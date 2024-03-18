@@ -1,6 +1,7 @@
-<div align="center">
+<div align="center" >
     <img src="https://github.com/chinmayi-ujoshi/chinmayi-ujoshi/blob/main/CatsCoding.gif" width="250" height="250"/>
 </div>
+
 <div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi🩷+I'm+Chinmayi!;Welcome+to+my+Github🩷" alt="Typing SVG" />
