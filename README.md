@@ -1,5 +1,5 @@
 <div align="center" >
-    <img src="https://github.com/chinmayi-ujoshi/chinmayi-ujoshi/blob/main/banner1.gif" width="1200" height="250"/>
+    <img src="https://github.com/chinmayi-ujoshi/chinmayi-ujoshi/blob/main/banner1.gif" width="1000" height="200"/>
 </div>
 
 <div>
@@ -57,15 +57,15 @@
 
 <h2 align="center">💗 About me 💗</h2>
 <div> 
-🔭 My journey began with a fascination for electronics, leading to a Bachelor's in E&TC. 
+💞 My journey began with a fascination for electronics, leading to a Bachelor's in E&TC. 
  
-📫My path took a pivotal turn during a software internship, which ignited my passion for software development.
+💞 My path took a pivotal turn during a software internship, which ignited my passion for software development.
  
-🌱Currently, I'm pursuing a Master's in Computer Engineering at Syracuse University, with a 30% scholarship in recognition of my potential and achievements.
+💞 Currently, I'm pursuing a Master's in Computer Engineering at Syracuse University, with a 30% scholarship in recognition of my potential and achievements.
 
-💬My vision as a developer is to create and contribute to projects that not only solve complex problems but also contribute positively to society!
+💞 My vision as a developer is to create and contribute to projects that not only solve complex problems but also contribute positively to society!
 
-⚡Outside the digital realm, I wear the hat of co-founder and vice president of Desi Performance, a dance team, at Syracuse University. 
+💞 Outside the digital realm, I wear the hat of co-founder and vice president of Desi Performance, a dance team, at Syracuse University. 
 
  </div>
  
