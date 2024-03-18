@@ -3,19 +3,19 @@
 </div>
 <div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi!+I'm+Chinmayi!;Welcome+to+my+Github!" alt="Typing SVG" />
-  <h3 align="center">A passionate software developer weaving code into solutions that shape a better tomorrow!</h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi🩷+I'm+Chinmayi!;Welcome+to+my+Github🩷" alt="Typing SVG" />
+  <h3 align="center">💖I'm a passionate software developer weaving code into solutions that shape a better tomorrow💖</h3>
 </h1>
 </div>
 <hr>
 <div align="center">
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">💕 Stats 💕</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=chinmayi-ujoshi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmayi-ujoshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <hr>
 <div align="center">
-  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  <h2 align="center">💝 Languages-Frameworks-Tools 💝</h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
@@ -54,7 +54,7 @@
 </div>
 <hr/>
 
-<h2 align="center">About me</h2>
+<h2 align="center">💗 About me 💗</h2>
 <div> 
 🔭 My journey began with a fascination for electronics, leading to a Bachelor's in E&TC. 
  
@@ -85,5 +85,5 @@
 </div>
 
 <hr>
-<h2 align="center">Watch a snake eat my contribution graph!</h2>
+<h2 align="center">🐍 Watch a snake eat my contribution graph!🐍</h2>
 <img src="https://raw.githubusercontent.com/chinmayi-ujoshi/chinmayi-ujoshi/output/snake.svg" alt="Snake animation" />
