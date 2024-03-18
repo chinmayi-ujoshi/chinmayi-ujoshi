@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmayi-ujoshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <hr>
-<div align="left">
+<div align="center">
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -53,10 +53,9 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 <hr/>
-<h3 align="center">About me</h3>
 
-<div>
- 
+<h2 align="center">About me</h2>
+<div> 
 🔭 My journey began with a fascination for electronics, leading to a Bachelor's in E&TC. 
  
 📫My path took a pivotal turn during a software internship, which ignited my passion for software development.
@@ -85,4 +84,6 @@
   </a>
 </div>
 
-###
+<hr>
+<h2 align="center">Watch a snake eat my contribution graph!</h2>
+<img src="https://raw.githubusercontent.com/chinmayi-ujoshi/chinmayi-ujoshi/output/snake.svg" alt="Snake animation" />
