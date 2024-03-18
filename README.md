@@ -1,7 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chinmayi-ujoshi.chinmayi-ujoshi" />
+<div align="center">
+    <img src="https://github.com/chinmayi-ujoshi/chinmayi-ujoshi/blob/main/CatsCoding.gif" width="250" height="250"/>
+</div>
 <div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi!%F0%9F%91%8BI'm+Chinmayi!;Welcome+to+my+Github!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi!+I'm+Chinmayi!;Welcome+to+my+Github!" alt="Typing SVG" />
   <h3 align="center">A passionate software developer weaving code into solutions that shape a better tomorrow!</h3>
 </h1>
 </div>
