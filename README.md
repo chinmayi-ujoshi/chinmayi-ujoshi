@@ -1,5 +1,5 @@
 <div align="center" >
-    <img src="https://github.com/chinmayi-ujoshi/chinmayi-ujoshi/blob/main/CatsCoding.gif" width="250" height="250"/>
+    <img src="https://github.com/chinmayi-ujoshi/chinmayi-ujoshi/blob/main/banner1.gif" width="1200" height="250"/>
 </div>
 
 <div>
