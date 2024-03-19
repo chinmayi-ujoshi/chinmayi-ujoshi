@@ -4,7 +4,7 @@
 
 <div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi🩷+I'm+Chinmayi!;Welcome+to+my+Github🩷" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=800&color=F72C7FFF&center=true&vCenter=true&random=false&width=500&lines=Hi🩷+I'm+Chinmayi!;Welcome+to+my+GitHub🩷" alt="Typing SVG" />
   <h3 align="center">💖I'm a passionate software developer weaving code into solutions that shape a better tomorrow💖</h3>
 </h1>
 </div>
