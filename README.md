@@ -85,6 +85,4 @@
   </a>
 </div>
 
-<hr>
-<h2 align="center">🐍 Watch a snake eat my contribution graph!🐍</h2>
-<img src="https://raw.githubusercontent.com/chinmayi-ujoshi/chinmayi-ujoshi/output/snake.svg" alt="Snake animation" />
+
