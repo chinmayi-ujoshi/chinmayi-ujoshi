@@ -60,8 +60,6 @@
 💞 My journey began with a fascination for electronics, leading to a Bachelor's in E&TC. 
  
 💞 My path took a pivotal turn during a software internship, which ignited my passion for software development.
- 
-💞 Currently, I'm pursuing a Master's in Computer Engineering at Syracuse University, with a 30% scholarship in recognition of my potential and achievements.
 
 💞 My vision as a developer is to create and contribute to projects that not only solve complex problems but also contribute positively to society!
 
